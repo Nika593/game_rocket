@@ -1,0 +1,17 @@
+{
+	"name": "TextHealth",
+	"plugin-id": "Text",
+	"sid": 802183980762191,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "hp",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 980900715549283
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": []
+}

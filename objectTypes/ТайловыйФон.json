@@ -1,0 +1,21 @@
+{
+	"name": "ТайловыйФон",
+	"plugin-id": "TiledBg",
+	"sid": 770992854801043,
+	"isGlobal": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 750,
+		"height": 1604,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"imageSpriteId": 3720008,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}
